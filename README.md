@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Ezzulddin and I'm a recent Computer Science Grad.</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Ezzulddin, and I am a recent Computer Science Graduate.</h2>
 
 ###
 
