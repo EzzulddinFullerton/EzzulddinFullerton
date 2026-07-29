@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Ezzulddin, and I am a recent Computer Science Graduate.</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Ezzulddin and I'm a recent Computer Science Grad.</h2>
 
 ###
 
@@ -36,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
 
 ###
